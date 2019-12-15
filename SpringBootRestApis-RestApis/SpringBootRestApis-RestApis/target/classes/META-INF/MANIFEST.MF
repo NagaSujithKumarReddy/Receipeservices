@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Receipe-Services
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Sujith
+Implementation-Vendor-Id: com.company
+Build-Jdk: 1.8.0_232
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Receipe-Services
+Created-By: Maven Integration for Eclipse
+
